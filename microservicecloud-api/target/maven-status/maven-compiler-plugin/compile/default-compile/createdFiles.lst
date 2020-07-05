@@ -1,0 +1,4 @@
+com\spcloud\api\entitry\Dept.class
+com\spcloud\api\service\DeptClientService.class
+com\spcloud\api\service\DeptClientServiceFallbackFactory$1.class
+com\spcloud\api\service\DeptClientServiceFallbackFactory.class

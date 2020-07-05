@@ -1,0 +1,8 @@
+
+r	java:S116"VRename this field "data_source" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›”©8Øñ–ï¯.
+t
+java:S1104"WMake data_source a static final constant or non-public and provide accessors if needed.(›”©8Øñ–ï¯.
+q
+java:S1104"TMake deptName a static final constant or non-public and provide accessors if needed.(Ò«…æ8Øñ–ï¯.
+t
+java:S1104"RMake deptId a static final constant or non-public and provide accessors if needed.(°Ãüÿÿÿÿ8Øñ–ï¯.
